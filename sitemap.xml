@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://www.aroundvernon.com/index.php</loc>
+
+      <lastmod>2020-01-01</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.aroundvernon.com/parks.php</loc>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.aroundvernon.com/points-of-interest.php</loc>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.aroundvernon.com/directory.php</loc>
+
+      <lastmod>2019-11-01</lastmod>
+
+      <priority>0.9</priority>
+
+   </url>
+	
+	<url>
+
+      <loc>https://www.aroundvernon.com/funstuff.php</loc>
+
+      <lastmod>2020-01-01</lastmod>
+		
+	 <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+	
+	<url>
+
+      <loc>https://www.aroundvernon.com/contact.php</loc>
+
+      <lastmod>2019-11-01</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+	
+</urlset>
