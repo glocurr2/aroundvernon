@@ -1,9 +1,9 @@
 # aroundvernon
 Around Vernon website
 
-This is an informative site about Vernon Township, NJ. The technologies used are php server side coding, JavaScript, jQuery, Bootstrap, CSS, and also Angular.js (for the administrative section).
+This is an informative site about Vernon Township, NJ. It is live at www.aroundvernon.com. The technologies used are php server side coding, JavaScript, jQuery, Bootstrap, CSS, and also Angular.js (for the administrative section).
 
-Design representation:
+Visual representation:
 
 
 
