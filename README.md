@@ -7,4 +7,5 @@ Design representation:
 
 
 
-<img width="1199" height="11950" alt="album_around_vernon2" src="https://github.com/user-attachments/assets/255a5fd2-0562-4ac5-a1d9-31a2d26d6c7a" />
+
+<img width="1518" height="1184" alt="avernon-about" src="https://github.com/user-attachments/assets/86964a21-1b2d-486e-8e5c-d794cb80c930" />
